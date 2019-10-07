@@ -1,5 +1,5 @@
 
-In this project, I use multivariate linear regression on housing data from King County to predict how much a house will sell for. Highlights include advanced data cleaning techniques as well as a Folium map.
+Using the O-SEMN framework (Obtain, Scrub, Explore, Model, iNterpret), I dive deep into the King County housing dataset.
 
 
 
