@@ -4,6 +4,11 @@ Using the O-SEMN framework (Obtain, Scrub, Explore, Model, iNterpret), I dive de
 
 
 # Price Prediction of Houses in King County, Washington, USA
+
+The jupyter notebook for this project can be found [here.](https://github.com/emilypfeifer/kingcounty/blob/master/student.ipynb)
+
+The blog post for this project can be found [here.](https://pfeiferem.weebly.com/data-cleaning-kc-housing.html)
+
 ## The Data
 The King County dataset consists of housing data on about 215,000 houses sold between May 2014 and May 2015 and their sale prices. The dataset also includes several variables such as number of bedrooms, number of times the house was viewed before being bought, square footage of the home, and the zipcode that the house is located in. You can view the dataset by opening the file `"kc_house_data.csv"`, in this repository.
 
